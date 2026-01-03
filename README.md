@@ -8,7 +8,7 @@ This Healthcare Analytics project focuses on analyzing hospital and patient-rela
 - Build interactive dashboards highlighting key performance indicators (KPIs).
 - Provide insights to improve patient care quality, resource allocation, and hospital efficiency.
 
-- 📂 Dataset
+- 📂 Datasethttps://github.com/Ankitha-BN/Healthcare-Project/blob/3d6094387b6db779bbe451853b2029508f16a63a/Dataset_Healthcare).xlsx
 -  The dataset includes healthcare information such as:
 - Patient 
 - Doctor 
